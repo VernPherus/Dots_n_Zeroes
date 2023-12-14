@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dots \'n Zeroes</string>
+    <string name="title_activity_zeroes">ZeroesActivity</string>
+    <string name="dots_n_zeroes">Dots \'n Zeroes</string>
+    <string name="text_to_morse">Text to Morse</string>
+    <string name="text_to_binary">Text to Binary</string>
 </resources>
